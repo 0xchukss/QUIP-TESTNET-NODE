@@ -51,7 +51,7 @@ after installation, run
 - also enable automine
 <img width="1894" height="492" alt="generate secret" src="https://github.com/user-attachments/assets/b126c676-7763-4f2e-8fd5-f722cfbc8a66" />
 
-# STEP 6: starr node
+# STEP 6: start node
 - after completing all configurations, kickstart the node
 - you can check logs at the bottom of the node manager app
 
