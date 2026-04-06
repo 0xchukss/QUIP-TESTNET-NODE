@@ -2,7 +2,7 @@
 
 # Requirements
 - pc
-- good network
+- good network with port set at 20049 (use a mifi or router for this)
 
 # STEP 1: install quick node manager
 1. windows (powershell)
